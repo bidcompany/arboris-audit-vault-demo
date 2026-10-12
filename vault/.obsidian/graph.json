@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "-path:\"90 Attachments\" -path:\"99 System\"",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "colorGroups": [
+    {
+      "query": "path:\"02 Findings\"",
+      "color": {
+        "a": 1,
+        "rgb": 15548997
+      }
+    },
+    {
+      "query": "path:\"01 Reports\"",
+      "color": {
+        "a": 1,
+        "rgb": 3107663
+      }
+    },
+    {
+      "query": "path:\"03 Sites\"",
+      "color": {
+        "a": 1,
+        "rgb": 3067234
+      }
+    },
+    {
+      "query": "path:\"04 Taxonomies\"",
+      "color": {
+        "a": 1,
+        "rgb": 10329501
+      }
+    }
+  ]
+}
