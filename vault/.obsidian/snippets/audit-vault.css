@@ -1,0 +1,4 @@
+.audit-rating { font-weight: 700; }
+.metadata-container { --metadata-label-width: 11rem; }
+.callout[data-callout="summary"] { --callout-color: 47, 107, 79; }
+.markdown-rendered table { width: 100%; }
