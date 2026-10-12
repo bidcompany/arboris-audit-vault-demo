@@ -1,0 +1,23 @@
+# --- Obsidian: personal / machine-specific state ---
+vault/.obsidian/workspace.json
+vault/.obsidian/workspace-mobile.json
+vault/.obsidian/workspaces.json
+vault/.obsidian/cache
+vault/.obsidian/hotkeys.json
+# Community plugin binaries and their settings (may contain API keys)
+vault/.obsidian/plugins/
+vault/.obsidian/themes/
+vault/.obsidian/community-plugins.json
+# Plugin-generated indexes
+vault/.smart-env/
+vault/.smart-connections/
+vault/.trash/
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+.vscode/
+.idea/
